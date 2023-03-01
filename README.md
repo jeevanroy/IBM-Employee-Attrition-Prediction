@@ -5,6 +5,8 @@
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware.
 Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
 
+>>> Attrition is the departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death or retirement.
+
 ## Data Dictionary
 
 > Age: Age of employee
