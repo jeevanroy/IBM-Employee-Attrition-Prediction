@@ -7,13 +7,13 @@ Attrition is a major risk to service-providing organizations where trained and e
 
 ## Data Dictionary
 
-Age: Age of employee
+> Age: Age of employee
 
-Attrition: Employee attrition status
+> Attrition: Employee attrition status
 
-Department: Department of work
+> Department: Department of work
 
-DistanceFromHome
+> DistanceFromHome
 
 Education: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
 
