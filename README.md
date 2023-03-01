@@ -15,39 +15,38 @@ Attrition is a major risk to service-providing organizations where trained and e
 
 > DistanceFromHome
 
-Education: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
+> Education: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
 
-EducationField
+> EducationField
 
-EnvironmentSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
+> EnvironmentSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
 
-JobSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
+> JobSatisfaction: 1-Low; 2-Medium; 3-High; 4-Very High;
 
-MaritalStatus
+> MaritalStatus
 
-MonthlyIncome 
+> MonthlyIncome 
 
+> NumCompaniesWorked: Number of companies worked prior to IBM 
 
-NumCompaniesWorked: Number of companies worked prior to IBM 
+> WorkLifeBalance: 1-Bad; 2-Good; 3-Better; 4-Best;
 
-WorkLifeBalance: 1-Bad; 2-Good; 3-Better; 4-Best;
-
-YearsAtCompany: Current years of service in IBM
+> YearsAtCompany: Current years of service in IBM
 
 ## Analysis Task:
 
-- Import attrition dataset and import libraries such as pandas, matplotlib.pyplot, numpy, and seaborn.
+> - Import attrition dataset and import libraries such as pandas, matplotlib.pyplot, numpy, and seaborn.
 
-- Exploratory data analysis
+> - Exploratory data analysis
 
-Find the age distribution of employees in IBM
+>> Find the age distribution of employees in IBM
 
-Explore attrition by age
+>> Explore attrition by age
 
-Explore data for Left employees
+>> Explore data for Left employees
 
-Find out the distribution of employees by the education field
+>> Find out the distribution of employees by the education field
 
-Give a bar chart for the number of married and unmarried employees
+>> Give a bar chart for the number of married and unmarried employees
 
-- Build up a logistic regression model to predict which employees are likely to attrite.
+> - Build up a logistic regression model to predict which employees are likely to attrite.
